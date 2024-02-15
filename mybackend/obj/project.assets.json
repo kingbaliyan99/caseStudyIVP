@@ -4097,19 +4097,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hagarg\\.nuget\\packages\\": {}
+    "C:\\Users\\kbaliyan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hagarg\\Desktop\\case study\\caseStudyIVP\\mybackend\\mybackend.csproj",
+      "projectUniqueName": "C:\\Users\\kbaliyan\\Desktop\\CaseStudy\\mybackend\\mybackend.csproj",
       "projectName": "mybackend",
-      "projectPath": "C:\\Users\\hagarg\\Desktop\\case study\\caseStudyIVP\\mybackend\\mybackend.csproj",
-      "packagesPath": "C:\\Users\\hagarg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hagarg\\Desktop\\case study\\caseStudyIVP\\mybackend\\obj\\",
+      "projectPath": "C:\\Users\\kbaliyan\\Desktop\\CaseStudy\\mybackend\\mybackend.csproj",
+      "packagesPath": "C:\\Users\\kbaliyan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kbaliyan\\Desktop\\CaseStudy\\mybackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hagarg\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kbaliyan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
