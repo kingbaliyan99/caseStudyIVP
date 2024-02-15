@@ -1,10 +1,10 @@
-
-import './App.css';
+import React from "react";
+import Bonds from './components/Bonds';
 
 function App() {
   return (
-    <div className="App">
-      <p>page</p>
+    <div>
+      <Bonds/>
     </div>
   );
 }
