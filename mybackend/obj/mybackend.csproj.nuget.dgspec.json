@@ -32,15 +32,27 @@
           "warnAsError": [
             "NU1605"
           ]
+<<<<<<< HEAD
+=======
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+>>>>>>> king
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+<<<<<<< HEAD
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+=======
+            "Microsoft.EntityFrameworkCore": {
+>>>>>>> king
               "target": "Package",
               "version": "[8.0.2, )"
             },
@@ -48,9 +60,17 @@
               "target": "Package",
               "version": "[8.0.2, )"
             },
+<<<<<<< HEAD
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[8.0.0, )"
+=======
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+>>>>>>> king
             }
           },
           "imports": [
@@ -72,7 +92,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+>>>>>>> king
         }
       }
     }

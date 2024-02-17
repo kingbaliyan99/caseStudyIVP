@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import './App.css';
 import ColorRadioButtons from './Components/ColorRadioButtons';
 
@@ -9,6 +10,15 @@ function App() {
     
     <div className="App">
      <TabbedAttributes/>
+=======
+import React from "react";
+import Bonds from './components/Bonds';
+
+function App() {
+  return (
+    <div>
+      <Bonds/>
+>>>>>>> king
     </div>
   );
 }
